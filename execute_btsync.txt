@@ -1,0 +1,2 @@
+/usr/local/zy-pkgs/bin/btsync --config /usr/local/zy-pkgs/etc/btsync.conf
+killall btsync
