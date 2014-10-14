@@ -1,0 +1,131 @@
+Package: ffp
+Version: 0.7zypkg004
+Description: Fonz Fun Plug
+Depends:
+Size: 5000000
+Installed-Size: 100000000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: ffp_0.7_arm_004.zpkg
+MD5SUM: a92a84af378ac0c12ee43ab880fc5c12
+
+Package: btsync
+Version: 1.3.105zypkg005
+Description: BitTorrent Sync. A private cloud tool
+Depends:
+Size: 3600000
+Installed-Size: 5000000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: btsync_1.3.105_arm_005.zpkg
+MD5SUM: fa5868a5b970027d9518a6cce7d2c730
+
+Package: anyterm
+Version: 9652zypkg001
+Description: Anyterm. A command shell in a browser
+Depends:
+Size: 150000
+Installed-Size: 40000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: anyterm_9652_arm_001.zpkg
+MD5SUM: 454f88310866dea6038f08bbbcc44b42
+
+Package: MetaRepository
+Version: 20140529zypkg010
+Description: MetaRepository for zypkgs. 
+Depends:
+Size: 200000
+Installed-Size: 500000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: MetaRepository_20140529_arm_010.zpkg
+MD5SUM: 12d3309bee57950ab7ba5ca945c63daa
+
+Package: Dropbear
+Version: 2014.63zypkg002
+Description: A lightweight SSH/SCP server and client. 
+Depends:
+Size: 500000
+Installed-Size: 1000000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: Dropbear_2014.63_arm_002.zpkg
+MD5SUM: e30140be2a8b416fc06a2e89c21fe7b5
+
+Package: MidnightCommander
+Version: 4.6.1zypkg001
+Description: A text-based file manager for the console. 
+Depends:
+Size: 800000
+Installed-Size: 2400000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: MidnightCommander_4.6.1_arm_001.zpkg
+
+Package: Tweaks
+Version: 20140912zypkg016
+Description: Firmware Tweaks. Tweaks for daemons and stuff available in the firmware. Telnet, cron, ...,
+Depends:
+Size: 75000
+Installed-Size: 320000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: Tweaks_20140916_arm_016.zpkg
+MD5SUM: f0ffd138281b4dd5143c8cdef946b2be
+
+Package: RandomTools
+Version: 20140826zypkg006
+Description: Random tools. unrar 5.1.6, screen 4.2.1, nano 2.2.6, su 8.15, sudo 1.6.8p12, iftop 1.0pre4, htop 1.0.3, hdparm 9.43, nmon 14i, iperf 2.0.5, iperf3 3.0.3, ldd-2.8, curlftpfs 0.9.2, iana protocols&services
+Depends:
+Size: 1700000
+Installed-Size: 3400000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: RandomTools_20140826_arm_006.zpkg
+MD5SUM: cab6ccc06e9852bceb72e6d5139aee0a
+ 
+Package: EncryptedShares
+Version: 20140603zypkg001
+Description: Encrypted shares. Create and maintain encrypted shares using encfs
+Depends: Tweaks
+Size: 640000
+Installed-Size: 2100000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: EncryptedShares_20140603_arm_001.zpkg
+MD5SUM: af08da653de7e4c49f2d9b7dba138434
+
+Package: exFAT
+Version: 1.0.1zypkg001
+Description: exFAT support. exFAT disks will be auto-mounted
+Depends: 
+Size: 100000
+Installed-Size: 350000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: exFAT_1.0.1_arm_001.zpkg
+MD5SUM: 1d11899d37bd423b042781525c83755a
+
+Package: MuninLite
+Version: 1.0.4zypkg003
+Description: A <a href="http://sourceforge.net/projects/muninlite/">lightweight</a> <a href="http://munin-monitoring.org/">Munin</a> node
+Depends: MetaRepository
+Size: 8500
+Installed-Size: 20000
+Architecture: arm
+Zy-Model: NSA-210, NSA-221, NSA-310, NSA-320, NSA-325
+IsBuiltin: N
+Filename: MuninLite_1.0.4_arm_003.zpkg
+MD5SUM: 21915094ebc1e700e9dcead808265457
+
