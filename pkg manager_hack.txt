@@ -1,0 +1,4 @@
+echo <your-url> > /etc/package_src_url
+
+File originale conteneva:
+ftp://ftp2.zyxel.com/NSA325/4.70/zypkg
