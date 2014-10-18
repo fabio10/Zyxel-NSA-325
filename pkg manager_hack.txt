@@ -2,3 +2,6 @@ echo <your-url> > /etc/package_src_url
 
 File originale conteneva:
 ftp://ftp2.zyxel.com/NSA325/4.70/zypkg
+
+web prefix file dentro cartella admin
+ftp://ftp.zyxel-tech.de/2.new_mirror/
